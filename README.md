@@ -1,8 +1,10 @@
+![img](https://start.alueducation.com/resource/1568810909000/AluLogoForAdmissions)
+
 # Alu-webstack
 
 ## My Load Balancer Stats Page
+![Screenshot 2023-12-05 210356](https://github.com/Elhameed/alu-higher_level_programming/assets/110787129/36f3fbff-0f3d-4cbb-b747-f7eb93147033)
 
-![Screenshot 2023-11-30 021556](https://github.com/Ronnie5562/alu-webstack/assets/110787129/efaaad83-3380-4eb6-9988-151cc45a68c2)
 
 ## Enabled HTTPS using Certbot and letsencrypt
 
